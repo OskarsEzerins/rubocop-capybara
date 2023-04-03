@@ -3,6 +3,7 @@
 ## Edge (Unreleased)
 
 - Fix an offense message for `Capybara/SpecificFinders`. ([@ydah])
+- Add a new `Capybara/NegationMatcherAfterVisit` cop. ([@ydah])
 
 ## 2.17.1 (2023-02-13)
 
